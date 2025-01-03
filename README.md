@@ -6,5 +6,5 @@ React-JS--Crud-Mysql
 
 
 
- 2qlLjBO5dT
+
 Projeto realizado, através do curso: https://www.youtube.com/watch?v=vzPsUWLprAw&t=341s
